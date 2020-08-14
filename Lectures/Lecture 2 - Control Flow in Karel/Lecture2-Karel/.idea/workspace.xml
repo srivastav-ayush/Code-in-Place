@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="164ec03e-79f6-4ab8-be9b-867bab4fb0f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aCWyJb6DdEwHmVGdX2hmRMW5QC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="OurSteepleChaseKarel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lecture2-Karel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OurSteepleChaseKarel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.OurSteepleChaseKarel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="164ec03e-79f6-4ab8-be9b-867bab4fb0f0" name="Default Changelist" comment="" />
+      <created>1582749283301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582749283301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="725" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586241683715">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="725" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241683715" />
+    <state width="1052" height="305" key="GridCell.Tab.0.bottom" timestamp="1586241940619">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1586241463182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241463182" />
+    <state width="1052" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241940619" />
+    <state width="1052" height="305" key="GridCell.Tab.0.center" timestamp="1586241940619">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1586241463182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241463182" />
+    <state width="1052" height="305" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241940619" />
+    <state width="1052" height="305" key="GridCell.Tab.0.left" timestamp="1586241940619">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1586241463182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241463182" />
+    <state width="1052" height="305" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241940619" />
+    <state width="1052" height="305" key="GridCell.Tab.0.right" timestamp="1586241940619">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1586241463182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="961" height="300" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241463182" />
+    <state width="1052" height="305" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586241940619" />
+    <state x="131" y="257" key="SettingsEditor" timestamp="1586329541358">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="131" y="257" key="SettingsEditor/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586329541358" />
+    <state x="552" y="187" key="scopes" timestamp="1586240901778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="187" key="scopes/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586240901778" />
+    <state x="320" y="207" key="search.everywhere.popup" timestamp="1586242038303">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="320" y="207" key="search.everywhere.popup/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1586242038303" />
+  </component>
+</project>

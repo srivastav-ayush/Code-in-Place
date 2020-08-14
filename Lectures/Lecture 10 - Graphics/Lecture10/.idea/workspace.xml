@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47990e99-3ad1-4186-bf21-f5945f7fb5ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1anSAqySKdH7yF2sYe2jQVuLmVv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lecture 12 - Lists/Lecture12" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Python tests.Doctest get_best_pixel">
+    <configuration name="Doctest get_best_pixel" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Lecture10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ghost_soln.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="get_best_pixel" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest get_pixel_dist (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Lecture10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ghost_soln.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="get_pixel_dist" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest get_pixel_dist" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Lecture10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ghost.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="get_pixel_dist" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctest get_best_pixel" />
+        <item itemvalue="Python tests.Doctest get_pixel_dist (1)" />
+        <item itemvalue="Python tests.Doctest get_pixel_dist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47990e99-3ad1-4186-bf21-f5945f7fb5ba" name="Default Changelist" comment="" />
+      <created>1562831641146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562831641146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1021" y="185" key="#Doctest_get_pixel_dist" timestamp="1587369802485">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1021" y="185" key="#Doctest_get_pixel_dist/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1587369802485" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589806306670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589806306670" />
+    <state width="1094" height="197" key="GridCell.Tab.0.bottom" timestamp="1587886686434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1094" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1587886686434" />
+    <state width="1094" height="197" key="GridCell.Tab.0.center" timestamp="1587886686434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1094" height="197" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1587886686434" />
+    <state width="1094" height="197" key="GridCell.Tab.0.left" timestamp="1587886686434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1094" height="197" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1587886686434" />
+    <state width="1094" height="197" key="GridCell.Tab.0.right" timestamp="1587886686434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1094" height="197" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1587886686434" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1589697455818">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589697455818" />
+    <state x="798" y="209" key="SettingsEditor/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1587369820211" />
+    <state x="798" y="257" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1588138677184" />
+    <state x="973" y="370" width="672" height="761" key="search.everywhere.popup" timestamp="1588138405475">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="973" y="310" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1587872785426" />
+    <state x="973" y="370" width="672" height="761" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1588138405475" />
+  </component>
+</project>
