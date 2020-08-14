@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47990e99-3ad1-4186-bf21-f5945f7fb5ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/PhotoshopAlgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/PhotoshopAlgs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/RangeListProblems.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/RangeListProblems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section/Section3-Starter/word_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section/Section3-Starter/word_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WWW/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WWW/schedule.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/warmups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bluescreen.py" />
+        <option value="$PROJECT_DIR$/ghost.py" />
+        <option value="$PROJECT_DIR$/parse-mystery.py" />
+        <option value="$PROJECT_DIR$/warmups.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="25" />
+    <option name="y" value="23" />
+    <option name="width" value="1276" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assignment3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47990e99-3ad1-4186-bf21-f5945f7fb5ba" name="Default Changelist" comment="" />
+      <created>1562831641146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562831641146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctest_get_average - 2019.07.11 at 01h 10m 23s.xml">
+      <configuration name="Doctest get_average" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_get_best_pixel - 2019.07.11 at 01h 10m 27s.xml">
+      <configuration name="Doctest get_best_pixel" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_decorrupt_red - 2019.07.11 at 01h 28m 28s.xml">
+      <configuration name="Doctest decorrupt_red" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_decorrupt_green - 2019.07.11 at 01h 29m 29s.xml">
+      <configuration name="Doctest decorrupt_green" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_decorrupt_blue - 2019.07.11 at 01h 30m 16s.xml">
+      <configuration name="Doctest decorrupt_blue" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_parse_line - 2019.07.11 at 01h 44m 25s.xml">
+      <configuration name="Doctest parse_line" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_parse_line - 2019.07.11 at 01h 49m 46s.xml">
+      <configuration name="Doctest parse_line" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_parse_line - 2019.07.11 at 02h 32m 49s.xml">
+      <configuration name="Doctest parse_line" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_get_pixel_dist - 2019.07.11 at 02h 33m 11s.xml">
+      <configuration name="Doctest get_pixel_dist" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_get_average - 2019.07.11 at 02h 33m 14s.xml">
+      <configuration name="Doctest get_average" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="25" y="23" width="1276" height="772" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38486055" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296146" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296146" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/texts/hidden_1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ghost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1111">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+          <folding>
+            <element signature="e#158#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bluescreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="8" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse-mystery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math-corner/G0080577-650.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math-corner/G0080578-650.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math-corner/G0080623-650.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math-corner/G0080628-650.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math-corner/G0080622-650.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monster/G0070462-1000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monster/G0070483-1000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monster/G0070491-1000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monster/G0070504-1000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1583" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/csv.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15288" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/sys.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/multiprocessing/managers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1199943126/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9837" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warmups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
