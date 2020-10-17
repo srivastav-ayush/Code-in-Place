@@ -18,4 +18,4 @@ Anyone can use it for leaning Python or revising their basic concepts.
 
 You have successfully completed Stanford University's course CS-106A 
 
-[![Watch the video](https://img.youtube.com/vi/E890sKvDf6M/maxresdefault.jpg)](https://youtu.be/E890sKvDf6M)
+[![Watch the video](https://img.youtube.com/vi/E890sKvDf6M/hqdefault.jpg)](https://youtu.be/E890sKvDf6M)
