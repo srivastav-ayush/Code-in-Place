@@ -17,3 +17,5 @@ Anyone can use it for leaning Python or revising their basic concepts.
   8. Notes - A PDF with all the notes from all lectures, keep this for revision
 
 You have successfully completed Stanford University's course CS-106A 
+
+[![Watch the video](https://img.youtube.com/vi/E890sKvDf6M/maxresdefault.jpg)](https://youtu.be/E890sKvDf6M)
