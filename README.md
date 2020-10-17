@@ -19,8 +19,8 @@ Anyone can use it for leaning Python or revising their basic concepts.
 You have successfully completed Stanford University's course CS-106A 
 
 ## Final Project
-**Snake Game**
-Immitation of the classic snake game in Nokia phones.
-You can find the code for the Snake Game in the Final Project folder of this repository
+**Snake Game**<br/>
+Immitation of the classic snake game in Nokia phones.<br/>
+You can find the code for the Snake Game in the Final Project folder of this repository<br/>
 
 [![Watch the video](https://img.youtube.com/vi/Oh1jMtYver0/hqdefault.jpg)](https://youtu.be/Oh1jMtYver0)
