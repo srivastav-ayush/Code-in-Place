@@ -18,9 +18,15 @@ Anyone can use it for leaning Python or revising their basic concepts.
 
 You have successfully completed Stanford University's course CS-106A 
 
+### Karel Project
+Used Karel to write my etire name - AYUSH, letter by letter in its world.<br/>
+You can find the ExtensionKarel code for in the Assignment - 1 folder of this repository.<br/>
+
+[![Watch the video](https://img.youtube.com/vi/yRIEQwh9v8A/hqdefault.jpg)](https://youtu.be/yRIEQwh9v8A)
+
 ## Final Project
 **Snake Game**<br/>
 Immitation of the classic snake game in Nokia phones.<br/>
-You can find the code for the Snake Game in the Final Project folder of this repository<br/>
+You can find the code for the Snake Game in the Final Project folder of this repository.<br/>
 
 [![Watch the video](https://img.youtube.com/vi/Oh1jMtYver0/hqdefault.jpg)](https://youtu.be/Oh1jMtYver0)
