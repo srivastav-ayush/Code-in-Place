@@ -9,7 +9,7 @@ This file is for optional extension programs.
 
 def main():
     # This is a Karel program that prints my name "AYUSH" letter by letter onto the world in RED colour.
-    # The program first prints a letter and then erases the letter to print the nest letterpy
+    # The program first prints a letter and then erases the letter to print the next letter
 
     # Karel paints the whole world WHITE
     white_world()
